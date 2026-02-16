@@ -1,11 +1,14 @@
-# Dashboard de Análise de Preços – Airbnb (Washington, EUA)
+# Dashboard de Análise de Preços – Airbnb (Washington, EUA) - Tableau
 
-Dashboard desenvolvido no Power BI para análise de **preços, distribuição por quantidade de quartos, localização por CEP e evolução da receita ao longo do tempo** em anúncios do Airbnb na cidade de Washington (EUA).
+Dashboard desenvolvido no Tableau para análise de **preços, distribuição por quantidade de quartos, localização por CEP e evolução da receita ao longo do tempo** em anúncios do Airbnb na cidade de Washington (EUA).
 
 O projeto tem como objetivo identificar padrões de precificação e tendências de receita no mercado de hospedagem.
 
 ---
+
 ![Dashboard](Dashboard.jpg)
+
+---
 
 ## Objetivo do Projeto:
 
@@ -20,7 +23,7 @@ Criar um painel analítico para:
 
 ## Principais Análises:
 
-### 🛏 Preço por Quantidade de Quartos
+### Preço por Quantidade de Quartos
 
 Preço médio conforme número de quartos:
 
@@ -90,3 +93,9 @@ Insight:
 - Regiões específicas apresentam valorização superior.
 - Tendência de crescimento da receita ao longo do tempo.
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://youtu.be/zOR0-nygfDE?si=eNPEuiL5Mt5PPATS.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
